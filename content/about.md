@@ -1,6 +1,6 @@
 ## Where **Ideas** Become **Reality**
 
-`Whether you're a brand new business looking to get your web presence up and running, or an exisiting business looking for a overhaul of your website. Partner with us and we'll work to make your vision come to life.`
+`Whether you're a brand new business looking to get your web presence up and running, or an existing business looking to redesign your website. Partner with us and we'll work to make your vision come to life.`
 
 ###### _Unmatched Collaboration_
 

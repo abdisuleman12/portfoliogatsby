@@ -1,10 +1,10 @@
 title = "Abdi Suleman"
-baseURL = "https://abdisuleman.com"
+baseURL = "https://www.abdisuleman.com"
 languageCode = "en-US"
 theme = "osprey-delight"
 tags = ["personal", "homepage", "portfolio"]
 # canonifyURLS = true
-# googleAnalytics = ""
+googleAnalytics = "G-SYJBB66ZRZ"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 enableEmoji = true
 pygmentsUseClasses = true
@@ -12,7 +12,7 @@ pygmentsUseClasses = true
 ## Generic theme parameters:
 [Params]
   email = "abdiasuleman@gmail.com"
-  description = "Abdi's Professional Portfolio"
+  description = "Abdi Suleman Portfolio"
   tagline = "web & mobile"
   logoBig = "/images/logo.png"
   # [str] This is the logo that will be shown in the left corner of the nav bar.
